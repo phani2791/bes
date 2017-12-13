@@ -1,0 +1,28 @@
+header.masthead .intro-text .intro-heading {
+    color:#1887fe !important;
+    font-size: 65px;
+}
+.logo{
+    width:150px;
+}
+.text-muted{
+    text-align: center !important;
+}
+
+ .btn-primary{
+    background-color:#1887fe !important;
+    border-color: #1887fe !important;
+}
+.text-primary{
+    color: #1887fe !important;
+}
+section{
+    padding: 65px 0 !important;
+}
+section h2.section-heading{
+    margin-bottom: 30px !important;
+}
+
+header.masthead {
+    color: #111 !important;
+}
